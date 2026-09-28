@@ -1,0 +1,4 @@
+interface:
+  display_name: "Black Cat Witch Illustrations"
+  short_description: "Pixel cat witch and hand-drawn AI explainers"
+  default_prompt: "Use $black-cat-witch-illustrations to turn this Chinese AI topic into a cute pixel-cat, clear hand-drawn ink/marker illustration."
